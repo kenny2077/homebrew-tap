@@ -1,8 +1,8 @@
 class Usageforge < Formula
   desc "Start your Claude Code and Codex 5-hour usage window on your schedule"
   homepage "https://kenny2077.github.io/UsageForge/"
-  url "https://github.com/kenny2077/UsageForge/archive/refs/tags/v3.3.0.tar.gz"
-  sha256 "dada761780f33aa1d92298cb9167427011c5123f155728a3766a22c6cfeae60c"
+  url "https://github.com/kenny2077/UsageForge/archive/refs/tags/v3.4.0.tar.gz"
+  sha256 "474e529dfeae8953155ed7ce55e6cebf01d2c3bd82935793b59f5a6787d12884"
   license "MIT"
 
   depends_on "jq"
